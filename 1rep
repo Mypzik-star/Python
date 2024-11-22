@@ -1,0 +1,27 @@
+#Ex 1 
+integer_var = 123
+float_var = 123.6
+string_var = "qwerty"
+list_var = ['1','2','3']
+tuple_var = ("5","6","7")
+dict_var = {1:"123", 2:"456", 3:"789"}
+set_var = {"1","2","3"}
+bool_var = True
+print(integer_var, float_var, string_var, list_var, tuple_var, dict_var, set_var, bool_var)
+
+#Ex 2 
+name = "Egor"
+age = 19
+average_grade = 3.18
+favorite_movies = ["Гарри Поттер","5-й элемент","такси"]
+personal_info = ("Нечунаев","№8","3.18")
+skills = {"интеллект": "средний", "физ. сила": "средняя"}
+visited_countries = {"Россия", "Россия", "Россия"}
+has_driver_license = False
+
+#Ex 3
+Cpu = "Intel Core i7-12700kf"
+RAM = "64 gb"
+speed_ether = "100 mbps"
+list = [Cpu, RAM, speed_ether]
+print(list)
